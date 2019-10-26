@@ -1,0 +1,98 @@
+{
+    "ayaya": {
+        "command": "!xayaya",
+        "cost": 150
+    },
+    "allahu": {
+        "command": "!xallahu",
+        "cost": 200
+    },
+    "bruh": {
+        "command": "!xbruh",
+        "cost": 100
+    },
+    "deeznuts": {
+        "command": "!xdeeznuts",
+        "cost": 100
+    },
+    "drama": {
+        "command": "!xdrama",
+        "cost": 100
+    },
+    "gg": {
+        "command": "!xgg",
+        "cost": 100
+    },
+    "jeff": {
+        "command": "!xjeff",
+        "cost": 150
+    },
+    "johncena": {
+        "command": "!xjohncena",
+        "cost": 200
+    },
+    "justagame": {
+        "command": "!xjustagame",
+        "cost": 100
+    },
+    "mlg": {
+        "command": "!xmlg",
+        "cost": 150
+    },
+    "money": {
+        "command": "!xmoney",
+        "cost": 300
+    },
+    "nani": {
+        "command": "!xnani",
+        "cost": 150
+    },
+    "oof": {
+        "command": "!xoof",
+        "cost": 50
+    },
+	"ps1": {
+		"command": "!xps1",
+		"cost": 500
+	},
+	"ps2": {
+		"command": "!xps2",
+		"cost": 500
+	},
+	"rickroll": {
+		"command": "!xrickroll",
+		"cost": 500
+	},
+	"sexysax": {
+		"command": "!xsexysax",
+		"cost": 500
+	},
+	"smash": {
+		"command": "!xsmash",
+		"cost": 100
+	},
+	"weed": {
+		"command": "!xweed",
+		"cost": 420
+	},
+	"trololo": {
+		"command": "!xtrololo",
+		"cost": 300
+	},
+	"tuturu": {
+		"command": "!xtuturu",
+		"cost": 100
+	},
+	"windows": {
+		"command": "!xwindows",
+		"cost": 200
+	},
+	"workwork": {
+		"command": "!xworkwork",
+		"cost": 50
+	},
+	"znznzn": {
+		"command": "!xznznzn",
+		"cost": 300
+	}
+}

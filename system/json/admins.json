@@ -1,0 +1,18 @@
+{
+    "kfpgod": {
+        "admin": true,
+        "overlord": true
+    },
+    "bennyyasuo": {
+        "admin": true,
+        "overlord": true
+    },
+    "zuu": {
+        "admin": true,
+        "overlord": false
+    },
+    "cranda": {
+        "admin": true,
+        "overlord": false
+    }
+}
