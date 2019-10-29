@@ -1,8 +1,7 @@
 # KFPBot, made by BennyYasuo
 
 This is the official KFPBot which is being used by KFP right now, although he has a modified version, which removes my trademark.
-I will not allow him to claim it as his own, as he didn't work on it at all, so I will gladly open source this project. I'm not gonna lie, it's not the best code I have ever written, but at the time I was still learning how to use node.js and mongoDB. I will also
-open source the spambot he asked me to write for him. 
+I will not allow him to claim it as his own, as he didn't work on it at all, so I will gladly open source this project. I'm not gonna lie, it's not the best code I have ever written, but at the time I was still learning how to use node.js and mongoDB. However, I have become a much better programmer since then. I will also open source the spambot he asked me to write for him. 
 
 # Lies and Deception
 
